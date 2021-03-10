@@ -8,5 +8,5 @@ git clone https://github.com/rzhasibuan/colorRangeSlider.git
 
 # contact me 
 facebook : https://facebook.com/mstrloop
-instagram : https:://instagram.com/rezaafrisuhanggahsb
+instagram : https://www.instagram.com/rezaafrisuhanggahsb/
 email : rzhasibuan@gmail.com
